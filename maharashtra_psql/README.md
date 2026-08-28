@@ -4,6 +4,10 @@ This project uses PostgreSQL to analyze Maharashtra company data along with pinc
 It includes database setup scripts, SQL queries, and output visualizations.
 
 
+NOTE: If in data folder there is no mh_data.csv file then download that from given link below         and paste it in data folder with name mh_data.csv
+    link of mh_data : (https://www.data.gov.in/catalog/company-master-data)
+
+
 ### Database Setup
 
 The `db_setup` directory contains SQL scripts for:
