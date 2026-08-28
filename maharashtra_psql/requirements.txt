@@ -1,0 +1,4 @@
+## Requirements
+
+#* PostgreSQL
+#* psql` command-line tool
