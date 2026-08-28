@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS un_population;
+DROP USER IF EXISTS john;
